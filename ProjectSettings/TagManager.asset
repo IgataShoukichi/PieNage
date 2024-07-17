@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - New tag
+  - Piece
+  - Shell
+  - SubCamera
+  - Piece1
+  - Pece2
+  - Pie1
+  - Pie2
+  - Pie3
+  - Piece1_2
+  - Piece2_2
+  - Pie1_2
+  - Pie2_2
+  - Pie3_2
+  - Betya
+  - Betya1
+  - Betya2
+  - Betya_2
+  - Betya1_2
+  - Betya2_2
+  - Floor
+  - Pie1_3
+  - Pie2_3
+  - Pie3_3
+  - Piece1_3
+  - Piece2_3
+  - Piece3_3
+  - Pie1_4
+  - Pie2_4
+  - Pie3_4
+  - Piece1_4
+  - Piece2_4
+  - Piece3_4
+  - Betya_3
+  - Betya2_3
+  - Betya3_3
+  - Betya_4
+  - Betya2_4
+  - Betya3_4
+  - Betya1_3
+  - Betya1_4
+  - Spiece
+  - sPiece
+  - sPice1
+  - BigPie
+  - sPiece_2
+  - sPiece1_2
+  - BigPie_2
+  - sPiece_3
+  - sPiece1_3
+  - BigPie_3
+  - sPiece_4
+  - BigPie_4
+  - Pie4
+  - body1
+  - body2
+  - body3
+  - body4
+  - head1
+  - head2
+  - head3
+  - head4
+  - player2
+  - sonota
+  - etcetera
+  - player1
+  - player3
+  - player4
+  - Decal
+  - Set1
+  - Set2
+  - Set3
+  - Set4
+  - Setcamera
+  - Red
+  - Blue
+  - Yellow
+  - Green
+  - Mob1
+  - Mob2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Pie4
+  - Water
+  - UI
+  - Player4
+  - Pie1
+  - Pie2
+  - Pie3
+  - Player1
+  - Player2
+  - Player3
+  - BigPie1
+  - BigPie2
+  - BigPie3
+  - Bigpie4
+  - Mob
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
